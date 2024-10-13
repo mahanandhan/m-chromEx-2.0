@@ -1,0 +1,13 @@
+#input-el{
+    width: 300%;
+}
+#save-el{
+    background-color: green;
+    color: #FFFFFF;margin-top: 6px;
+    cursor: pointer;
+}
+#delete-el{
+    background-color: #FFF;
+    color: green;
+    cursor: pointer;
+}
